@@ -46,4 +46,5 @@ Displays detection history in a separate window.
 11. clear_history:
 Clears the detection history and updates the log.
 
+This Model is not fully absolute or perfectly accurate it still needs some upgrades and somemore fine tunes to get the models accuracy and the buffer in the frame rate. 
 Thank You.
